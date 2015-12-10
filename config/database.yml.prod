@@ -1,0 +1,7 @@
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: sample_prod
+  pool: 5
+  username: root
+  password:
