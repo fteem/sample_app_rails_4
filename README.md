@@ -23,3 +23,9 @@ Click on the button below to get started:
 
 [![Hack railstutorial/sample_app_rails_4 on
 Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=railstutorial%2Fsample_app_rails_4&file_to_open=README.nitrous.md)
+
+## Note
+[I](https://github.com/fteem) forked this sample application and added a 
+Dockerfile needed for my blog post on "Running a Rails application on Deis" for 
+[Codeship's Blog](https://blog.codeship.com).
+
